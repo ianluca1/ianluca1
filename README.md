@@ -1,59 +1,65 @@
-<h2 align="left">About me</h2>
+# Hi 👋, I'm Ian Luca
 
-###
+🚀 **Software Developer | Java & Angular Specialist** 🇧🇷 Brazil
 
-<p align="left">FullStack Developer<br>Angular + Java</p>
+I build **robust backend systems** and **dynamic web interfaces**, focusing on scalability and high-quality code.  
+Expertise in the **Java ecosystem** and modern **Frontend development** to deliver end-to-end solutions.
 
-###
+---
 
-<h2 align="left">Techs</h2>
+## 🌐 Where to find me
 
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-</div>
-
-###
-
-<h2 align="left">Contact</h2>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/ian-luca-nunes-sales-729a972b8/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+<p align="left">
+  <a href="https://github.com/ianluca1">
+    <img src="https://img.shields.io/badge/GitHub-ianluca1-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://wa.me/5561981767818?text=" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  <a href="https://www.linkedin.com/in/SEU-LINK-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-Ian%20Luca-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
-</div>
+</p>
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ianluca1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ianluca1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+## 🧠 What I do
 
-###
+-   🏗️ **Full Stack Development**: Specialized in Java + Angular architectures.
+-   ⚡ **Enterprise Solutions**: Scalable backends with Spring Boot & Hibernate.
+-   🧩 **Modern Frontends**: Reactive interfaces using TypeScript and RxJS.
+-   📊 **Reporting & Analytics**: Advanced document and report generation with Jasper Reports.
+-   🔐 **Security & Performance**: Implementing Spring Security and optimizing SQL queries.
+-   🤖 **Clean Code & Best Practices**: Focused on maintainability and SOLID principles.
 
-<img src="https://raw.githubusercontent.com/ianluca1/ianluca1/output/snake.svg" alt="Snake animation" />
+---
 
-###
+## 🛠️ Tech Stack
+
+### Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SASS](https://img.shields.io/badge/SASS-hotpink?style=for-the-badge&logo=sass&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JasperReports](https://img.shields.io/badge/Jasper_Reports-000000?style=for-the-badge&logo=google-sheets&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+
+---
+
+## 🚀 Philosophy
+
+> _"Software development is about turning complex logic into seamless experiences and scalable systems that drive real business value."_
+
+---
+
+⭐ If you like my work, consider starring a repository  
+🤝 Always open to collaborations and new challenges in the tech world.
